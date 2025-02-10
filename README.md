@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-7006: Creación y administración de segmentos en Dynamics 365 Customer Insights - Data
 
 Este repositorio contiene ejercicios y archivos de apoyo para MB-7006: Creación y administración de segmentos en Dynamics 365 Customer Insights – Data. Este curso está diseñado para los alumnos que planean usar Dynamics 365 Customer Insights – Data para unificar los sistemas de datos dispares de una organización y crear segmentos eficaces basados en atributos empresariales y de clientes de los datos unificados.
