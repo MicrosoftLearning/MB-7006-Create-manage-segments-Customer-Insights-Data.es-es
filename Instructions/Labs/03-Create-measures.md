@@ -39,7 +39,7 @@ En esta primera tarea, crearemos una medida para definir el valor medio de todas
 
 1. Selecciona el botón **Ejecutar** para completar tu medida.
 
-En esta siguiente tarea, crearemos una medida para definir el valor Medio de todas las compras web realizadas en **Contoso Coffee**.
+    En esta siguiente tarea, crearemos una medida para definir el valor Medio de todas las compras web realizadas en **Contoso Coffee**.
 
 1. Selecciona **Información > Medidas** en el menú de navegación de la izquierda.
 
@@ -94,7 +94,7 @@ En esta tarea, crearemos una medida para definir el total de todas las compras r
 
 1. Selecciona el botón **Ejecutar** para completar tu medida. Si se produce un error y necesitas elegir la **Ruta de relación**, selecciona **PoS_Purchases > Cliente** y selecciona el botón **Ejecutar** para completarla.
 
-Después, crearemos una medida para definir el total de todas las compras realizadas en línea.
+    Después, crearemos una medida para definir el total de todas las compras realizadas en línea.
 
 1. Selecciona **Información > Medidas** en el menú de navegación de la izquierda.
 
@@ -135,7 +135,7 @@ En primer lugar, definiremos los **Puntos de fidelización totales** obtenidos p
 
 1. Selecciona el botón **Ejecutar** para completar tu medida.
 
-Después, definiremos el valor total de todas las compras realizadas de cada cliente.
+    Después, definiremos el valor total de todas las compras realizadas de cada cliente.
 
 1. Selecciona **Información > Medidas** en el menú de navegación de la izquierda.
 
@@ -157,11 +157,9 @@ Después, definiremos el valor total de todas las compras realizadas de cada cli
 
 1. Selecciona la pestaña **Medidas**, expande **TotalOnlineSpend: CustomerInsights**, selecciona **Cálculo 1** y selecciona **Agregar**.
 
-1. Tu medida completada se parecerá a la siguiente imagen:
-
 1. Selecciona el botón **Ejecutar** para completar tu medida.
 
-A continuación, definiremos el valor medio de todas las compras realizadas de cada cliente.
+    A continuación, definiremos el valor medio de todas las compras realizadas de cada cliente.
 
 1. Selecciona **Información > Medidas** en el menú de navegación de la izquierda.
 
