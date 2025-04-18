@@ -83,7 +83,7 @@ En este ejercicio, configuraremos los criterios de **búsqueda y filtro** para q
 
 1. Seleccione **Guardar**.
 
-1. Seleccione **Run** (Ejecutar).
+1. Selecciona **Ejecutar**.
 
 1. En **Customer Insights**, selecciona **Clientes** en el menú de navegación de la izquierda. Debería aparecer un conjunto de tarjetas de cliente, que representan los **perfiles unificados**. Puedes expandir las tarjetas para obtener más información sobre el cliente u ordenar las tarjetas por varios campos. Para probarlo, selecciona **Expandir tarjetas** y **Ordenar por** en la barra de herramientas.
 
